@@ -2,6 +2,12 @@
 import itertools
 from typing import List, Tuple
 
+# Load file
+in_file = open("data/day_1_input.txt", "r")
+content = in_file.read()
+input_list = content.split("\n")
+in_file.close()
+
 def get_all_groups(input_list: List, batch_size: int) -> List[Tuple]:
     """Get all possible pairs in a list."""
     return list(itertools.combinations(input_list, batch_size))
