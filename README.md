@@ -1,5 +1,8 @@
-# advent-of-code
-advent of code 2020
+# purpose
+Oiling the stiff gears of my coding brain to close out 2020 strong! 
+
+# code
+All code can be found in the [code](https://github.com/ashleyajohn/advent-of-code/tree/main/code) directory and related files in the [data](https://github.com/ashleyajohn/advent-of-code/tree/main/data) directory. 
 
 # days complete
 
