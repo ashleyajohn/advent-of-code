@@ -4,7 +4,7 @@ from typing import List, Tuple
 # Load file
 in_file = open("data/day_2_input.txt", "r")
 content = in_file.read()
-terrain = content.split("\n")
+passwords = content.split("\n")
 in_file.close()
 
 def parse_input_passwords(passwords: list) -> List[Tuple]:
