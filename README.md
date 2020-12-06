@@ -8,7 +8,7 @@ All code can be found in the [code](https://github.com/ashleyajohn/advent-of-cod
 
 |SU|MO|TU|WE|TH|FR|SA|
 |-|-|-|-|-|-|-|
-|||:heavy_check_mark:|:heavy_check_mark:|03|04|05|
+|||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |06|07|08|09|10|11|12|
 |13|14|15|16|17|18|19|
 |13|14|15|16|17|18|19|
