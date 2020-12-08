@@ -1,6 +1,4 @@
 """Day 4 exercise."""
-from typing import List, Tuple
-
 import re
 from typing import List, Tuple
 
