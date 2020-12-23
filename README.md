@@ -9,7 +9,7 @@ All code can be found in the [code](https://github.com/ashleyajohn/advent-of-cod
 |SU|MO|TU|WE|TH|FR|SA|
 |-|-|-|-|-|-|-|
 |||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|12|
+|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |13|14|15|16|17|18|19|
 |13|14|15|16|17|18|19|
 |20|21|22|23|24|25|26|
