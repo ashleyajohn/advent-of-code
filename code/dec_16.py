@@ -34,7 +34,7 @@ with open('data/day_16_input.txt', 'r') as f:
 
     ncols = len(myticket)
     columns = {name: [*range(ncols)] for name in rules}
-    for ticket in valid_tickets:  # inc. myticket?
+    for ticket in valid_tickets:
         for col_index, num in enumerate(ticket):
             for name in columns:
                 if num not in rules[name] and col_index in columns[name]:
